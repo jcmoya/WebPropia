@@ -1,0 +1,47 @@
+﻿body {
+    margin: 0 auto;
+    padding: 1em;
+}
+h1, h2, h3{
+    color: #334b99;
+    
+}
+
+
+
+header  {
+    background-color: rgb(255, 181, 162);
+}
+
+nav {
+   /* float: right;*/
+    font-weight: bold;
+}
+nav ul {
+    list-style-type: none;
+}
+nav li {
+    display: inline-block;
+    margin-right: 1.5em;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+section {
+    padding: 1em;
+    width: 100%;
+    float: right;
+    box-sizing: border-box;
+}
+
+
+
+
+links {
+    width: 100%;
+    text-align: center;
+}
+links li {
+    display: inline-block;
+    margin-right: 1.5em;
+    text-align: center;
+}
